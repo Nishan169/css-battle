@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+/* .back{
+    background-image: url(disco.jpg);
+    background-size: contain;
+} */
+.front{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    height: 600px;
+    width: 93%;
+    border-radius: 20px;
+    background-color: rgb(24, 3, 75);
+}
+.navbar{
+    height: 50px;
+    /* background-color: red; */
+    color: white;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: larger;
+    padding-top: 15px;
+}
+.ct{
+    color: violet;
+}
+.hello{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: violet;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.just{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.first{
+    padding-left: 30px;
+    padding-top: 25px;
+    
+}
+.mail{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.name{
+    background-color: rgb(69, 69, 142);
+    border-radius: 3px;
+    border: none;
+    padding-left: 10px;
+    height: 30px;
+}
+.box{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.msg{
+    background-color: rgb(69, 69, 142);
+    border-radius: 3px;
+    border: none;
+    padding-left: 10px;
+    height: 150px;
+    width: 340px;
+
+}
+.submit{
+    background-color: violet;
+    font-size: 15px;
+    border: none;
+    border-radius: 3px;
+    margin-left: 30px;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.cont{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: violet;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.mnnit{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-top: 30px;
+}
+.follow{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: violet;
+    font-weight: bold;
+    padding-top: 55px;
+}
+.inst{
+    height: 30px;
+    padding: 3px;
+}
+.left{
+    padding-left: 130px;
+}
+.right{
+    padding-left: 450px;
+}
+.align{
+    display: flex;
+    /* justify-content: space-evenly; */
+}
