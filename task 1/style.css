@@ -3,10 +3,10 @@
     font-family: Arial;
     border: border-box;
 }
-/* .back{
-    background-image: url(disco.jpg);
+body{
+    background-image: url(disc.jpg);
     background-size: contain;
-} */
+}
 .front{
     margin-top: 50px;
     margin-left: 50px;
